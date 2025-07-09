@@ -36,6 +36,9 @@ Write-Output "Hello World"
 #Hello Universe
 Write-Output "Hello Universe"
 
+#Hello India
+Write-Output "Hello India"
+
 #Use a variable
 $name = "John"
 Write-Output "Hello $name"
