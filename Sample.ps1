@@ -34,10 +34,10 @@ Update-Help
 Write-Output "Hello World"
 
 #Hello Universe
-Write-Output "Hello Universe"
+Write-Output "Hello Universe       "
 
-#Hello India
-Write-Output "Hello India"
+#hello Panda
+Write-Output "hello Panda"
 
 #Use a variable
 $name = "John"
